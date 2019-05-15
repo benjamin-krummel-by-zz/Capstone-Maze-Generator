@@ -1,0 +1,24 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "[Play it](http://thatsmy.name/maze/)",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "@angular/core": "^5.2.9",
+    "angularfire2": "^5.0.0-rc.6.0",
+    "babel-core": "^6.26.0",
+    "firebase": "^4.12.1",
+    "gulp-sass": "^4.0.1",
+    "promise-polyfill": "7.1.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^4.0.2",
+    "typescript": "^2.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

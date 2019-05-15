@@ -1,0 +1,2 @@
+Open the maze.html with chrome 
+Then Click Generate Maze
